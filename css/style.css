@@ -1,0 +1,63 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Rubik:ital@1&family=Ubuntu:wght@300;700&display=swap');
+
+body{
+    background-image: url(/img/16649035_655093001350209_5874322783793135512_n.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+main{
+    margin-top: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    background-color: rgba(169, 169, 169, 0.61);
+    margin-bottom: 20px;
+    text-align: center;
+    border-radius: 10px;
+    
+}
+main p{
+    font-family: 'Bebas Neue', cursive;
+    font-size: 18px;
+    color:black;
+    text-align: center;
+}
+.info{
+    font-family: 'Bebas Neue', cursive;
+    color:rgb(43, 43, 43);
+    text-align: center;
+    background-color: rgba(169, 169, 169, 0.61);
+    border-radius: 10px;
+
+}
+ul{
+    list-style: none;
+    margin-right: 5%;
+}
+
+header{
+    background-color: rgba(169, 169, 169, 0.61);
+    padding: 10px;
+    border-radius: 10px;
+    font-family: 'Bebas Neue', cursive;
+    font-size: 25px;
+    text-align: center;
+    color: rgb(43, 43, 43);
+}
+
+iframe{
+    margin-left: 15px;
+    border-radius: 15px;
+    border: 5px rgb(0, 0, 0) solid;
+}
+#rodape {
+    text-align: center;
+    padding: 20px;
+}
+
+.icons{
+    width: 70px;
+    height: 70px;
+    
+}
